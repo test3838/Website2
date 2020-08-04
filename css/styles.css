@@ -10143,6 +10143,7 @@ canvas{
   bottom: 0;
   left: 0;
   margin: auto;
+  max-width: 100%;
 }
 header.masthead {
   padding-top: 10.5rem;
